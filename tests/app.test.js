@@ -6,4 +6,8 @@ describe("Sample tests", ()=>{
     test("Second testcase", ()=>{
         expect(1+2).toBe(3);
     })
+
+    test("Third testcase", ()=>{
+        expect(3+5).toBe(8);
+    })
 })
